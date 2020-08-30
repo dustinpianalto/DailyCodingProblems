@@ -3,5 +3,5 @@ package main
 import "log"
 
 func main() {
-	log.Println(problem1(16, []int{10, 15, 3, 7}))
+	log.Println(problem2([]int{3, 2, 1}))
 }
